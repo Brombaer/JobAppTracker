@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python dependencies
+*.egg-info/
+pip-log.txt
+
+# Data & output
+data/applications.json
+output/
+
+# API keys or config (if added later)
+config.py
+.env
+
+# OS or editor-specific
+*.swp
+*.
